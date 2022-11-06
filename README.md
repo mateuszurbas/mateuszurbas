@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mateuszurbas
 - 👀 I’m interested in mobile technologies
 - 📚 I'm already know React, React Native, Angular and Node
-- 🌱 I’m currently learning swift, flutter
+- 🌱 I’m currently learning Swift, Flutter
 - 📫 How to reach me? -> urbas.mp@gmail.com | https://www.linkedin.com/in/mateusz-urbas/
 
 <!---
